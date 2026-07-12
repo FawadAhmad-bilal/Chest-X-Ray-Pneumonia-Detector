@@ -3,12 +3,12 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-LIVE APP:https://chest-x-ray-pneumonia-detector.streamlit.app/
+
 
 # 🫁 PneumoScan — Chest X-Ray Pneumonia Detector
 
 A custom CNN trained from scratch to classify chest X-rays as **Pneumonia** or **Normal**, deployed with a Streamlit interface styled like a radiology light-box viewer.
-
+LIVE APP:https://chest-x-ray-pneumonia-detector.streamlit.app/
 ## Overview
 - Input: chest X-ray image (JPG/PNG)
 - Output: Pneumonia / No Pneumonia + confidence score
