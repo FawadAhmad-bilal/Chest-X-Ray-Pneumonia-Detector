@@ -4,6 +4,7 @@ from PIL import Image
 from tensorflow import keras
 from keras.models import load_model
 
+
 st.set_page_config(page_title="PneumoScan · AI X-Ray Analysis", page_icon="🫁", layout="centered")
 
 # ==================== DESIGN SYSTEM ====================
