@@ -4,8 +4,6 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 
-
-
 # 🫁 PneumoScan — Chest X-Ray Pneumonia Detector
 
 A custom CNN trained from scratch to classify chest X-rays as **Pneumonia** or **Normal**, deployed with a Streamlit interface styled like a radiology light-box viewer.
